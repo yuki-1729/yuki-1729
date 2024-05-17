@@ -1,16 +1,12 @@
-### Hi there 👋
+# Yuki(Akkey)
+- Discord: dr_kris
+- MineIdea: https://mineidea.net/creators/2243819020
 
-<!--
-**yuki-1729/yuki-1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 言語
+## 扱える
+- Python
+- JavaScript
+## 少し扱える
+- Java
+- Go
+- Lua
