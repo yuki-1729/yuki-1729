@@ -1,5 +1,5 @@
 # Yuki(Akkey)
-- Discord: dr_kris
+- Discord: yuki__1729
 - MineIdea: https://mineidea.net/creators/2243819020
 
 # 言語
